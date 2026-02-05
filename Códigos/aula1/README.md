@@ -1,17 +1,16 @@
 # Aula 1
 
 Nesse arquivo, vamos abordar:
-	1. As principais operações matemáticas com python
-	2. Introdução à variáveis e escopo de variáveis
-	3. Introdução a lógica algorítmica
+```sh
+	1. As principais operações matemáticas com python\n
+	2. Introdução à variáveis e escopo de variáveis\n
+	3. Introdução a lógica algorítmica\n
 	4. Tipagem com Python
-
+```
 *Todo o material desse arquivo foi desenvolvido em Python e em SO linux, outros sistemas podem usar de uma sintaxe levemente diferente da abordagem desse material.*
 
 ---
 #### 1. As principais operações matemáticas com python
-
-[Material de referência]()
 
 Guia de operações:
 ```sh
@@ -34,21 +33,6 @@ O python usa seguinte **ordem** para resolver expressões com várias operaçõe
 ```
 
 ---
-#### 2. Introdução à variáveis e escopo de variáveis
-
-[Material de referência]()
-
----
-#### 3. Introdução a lógica algorítmica
-
-[Material de referência]()
-
----
-#### 4. Tipagem com Python
-
-[Material de referência]()
-
----
 #### Orientações finais
 
 Todo esse material é baseado em livros e estudos orientados à prática profissional.
@@ -61,7 +45,8 @@ Entendendo algoritmos - Aditya Y. Bhargava 2º Ed.
 Lógica de programação - André Luiz Villar Forbellone 3º Ed.
 ```
 
-[Material de referência](https://github.com/xmezmerize/quick-tools)
+[Material de referência](https://github.com/xmezmerize/programacao101/tree/master/C%C3%B3digos/aula1)  
+[Material complementar](https://github.com/xmezmerize/quick-tools)
 
 Remember to test and question everything. If there's an error, call me on linkedin or email. :)
 
