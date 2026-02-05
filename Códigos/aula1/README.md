@@ -45,7 +45,6 @@ Entendendo algoritmos - Aditya Y. Bhargava 2º Ed.
 Lógica de programação - André Luiz Villar Forbellone 3º Ed.
 ```
 
-[Material de referência](https://github.com/xmezmerize/programacao101/tree/master/C%C3%B3digos/aula1)  
 [Material complementar](https://github.com/xmezmerize/quick-tools)
 
 Remember to test and question everything. If there's an error, call me on linkedin or email. :)
